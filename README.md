@@ -9,7 +9,7 @@ A minimal stackoverflow clone with CRUD and well-defined usser model for simpler
 
 <h3>Ask a question!</h3>
 <p>Or answer to other questions from users...</p>
-![](./paradime_imgs/landing.png)
+![](https://github.com/cipherDOT/paradime-project/blob/main/paradime_imgs/landing.png)
 
 <h3>Get answers, all in one portal!</h3>
 ![](./paradime_imgs/question.png)

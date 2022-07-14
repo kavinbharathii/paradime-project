@@ -14,4 +14,4 @@ A minimal stackoverflow clone with CRUD and well-defined usser model for simpler
 <h3>Get answers, all in one portal!</h3>
 [](paradime_imgs/question.png)
 
-<a href="https://paradime.herokuapp.com/">Link to Paradime!!</a>
+<a href="https://paradime.herokuapp.com/" target="_blank">Link to Paradime!!</a>

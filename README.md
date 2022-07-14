@@ -1,7 +1,7 @@
 # paradime-project
 A minimal stackoverflow clone with CRUD and well-defined usser model for simpler and focused learning work flow.
 
-<h3>Register into paradime to begin:</h3>
+<h3>Register as a user of Paradime to begin:</h3>
 
 ![](./paradime_imgs/register.png)
 

@@ -1,5 +1,5 @@
 # paradime-project
-A minimal stackoverflow clone with CRUD and well-defined usser model for simpler and focused learning work flow.
+A minimal stackoverflow clone with CRUD and well-defined user model for simpler and focused learning work flow.
 
 <h3>Register as a user of Paradime to begin:</h3>
 
